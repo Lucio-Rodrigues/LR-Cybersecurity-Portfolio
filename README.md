@@ -6,11 +6,15 @@ This repository demonstrates my ability to tackle real-world security challenges
 
 ☁️ Cloud Security & Home Labs - Deploying and analysing vulnerable virtual machines, collecting and visualising attack data in real time.
 
+
 🌐 Networking & Infrastructure – Designing secure network topologies, configuring routing and switching, and applying defensive strategies in simulated environments.
+
 
 🎯 Threat Analysis & Frameworks – Leveraging MITRE ATT&CK and D3FEND frameworks to identify threats and map effective countermeasures.
 
+
 ⚡ Automation & Tool Development – Building Python and Bash scripts to streamline workflows, automate repetitive tasks, and analyse datasets efficiently.
+
 
 📝 Research & Communication – Professional write-ups explaining attack vectors, defense strategies, and SIEM best practices in clear, actionable terms.
 
@@ -18,31 +22,31 @@ This repository demonstrates my ability to tackle real-world security challenges
 
 Each folder below contains a complete, standalone project or resource with documentation, code, and step-by-step guides where applicable:
 
-Audit
+./Audit
  – Security audit scenarios, assessments, and reporting.
 
-Azure Home Lab
+./Azure Home Lab
  – Cloud-based lab projects, Azure Sentinel configurations, and attack visualisation.
 
-Network Security
+./Network Security
  – Firewall configurations, secure topologies, and infrastructure defense.
 
-Automation Tools
+./Automation Tools
  – Custom scripts for penetration testing, scanning, and workflow automation.
 
-Blogs
+./Blogs
  – In-depth write-ups on security concepts, SIEM tuning, and practical defense strategies.
 
-Pentesting Report
+./Pentesting Report
  – Professional-style penetration testing reports with findings and mitigations.
 
-Cisco Packet Tracer
+./Cisco Packet Tracer
  – Network design, configuration, and troubleshooting using Packet Tracer.
 
-Incident Response
+./Incident Response
  – Playbooks, detection strategies, and response workflows.
 
-Red Team Projects
+./Red Team Projects
  – Offensive security simulations and adversary emulation exercises.
 
 🚀 About This Portfolio
