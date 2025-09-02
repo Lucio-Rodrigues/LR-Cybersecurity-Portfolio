@@ -70,4 +70,4 @@ Whether you are a recruiter, hiring manager, or fellow cybersecurity enthusiast,
 
   3) Professional Communication – Clear documentation and reporting, aligned with industry standards.
 
-Explore, review, and connect with my work — every project reflects my commitment to continuous learning, innovation, and excellence in cybersecurity.
+Explore, review, and connect with my work. Every project reflects my commitment to continuous learning, innovation, and excellence in cybersecurity.
