@@ -22,7 +22,7 @@ This repository demonstrates my ability to tackle real-world security challenges
 
 Each folder below contains a complete, standalone project or resource with documentation, code, and step-by-step guides where applicable:
 
-[Audit](./LR-Cybersecurity-Portfolio/Audit)
+[Audit](./Lucio-Rodrigues/LR-Cybersecurity-Portfolio/Audit)
  – Security audit scenarios, assessments, and reporting.
 
 Azure Home Lab
