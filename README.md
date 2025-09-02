@@ -22,7 +22,7 @@ This repository demonstrates my ability to tackle real-world security challenges
 
 Each folder below contains a complete, standalone project or resource with documentation, code, and step-by-step guides where applicable:
 
-[Audit](./1 - Audit)
+[Audit](./1%20-%20Audit)
  – Security audit scenarios, assessments, and reporting.
 
 Azure Home Lab
