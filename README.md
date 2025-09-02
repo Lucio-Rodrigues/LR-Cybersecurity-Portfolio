@@ -22,31 +22,31 @@ This repository demonstrates my ability to tackle real-world security challenges
 
 Each folder below contains a complete, standalone project or resource with documentation, code, and step-by-step guides where applicable:
 
-./Audit
+Audit
  – Security audit scenarios, assessments, and reporting.
 
-./Azure Home Lab
+Azure Home Lab
  – Cloud-based lab projects, Azure Sentinel configurations, and attack visualisation.
 
-./Network Security
+Network Security
  – Firewall configurations, secure topologies, and infrastructure defense.
 
-./Automation Tools
+Automation Tools
  – Custom scripts for penetration testing, scanning, and workflow automation.
 
-./Blogs
+Blogs
  – In-depth write-ups on security concepts, SIEM tuning, and practical defense strategies.
 
-./Pentesting Report
+Pentesting Report
  – Professional-style penetration testing reports with findings and mitigations.
 
-./Cisco Packet Tracer
+Cisco Packet Tracer
  – Network design, configuration, and troubleshooting using Packet Tracer.
 
-./Incident Response
+Incident Response
  – Playbooks, detection strategies, and response workflows.
 
-./Red Team Projects
+Red Team Projects
  – Offensive security simulations and adversary emulation exercises.
 
 🚀 About This Portfolio
