@@ -24,7 +24,7 @@ echo "1) Basic Port Scan (Fast)"
 echo "2) Full Port Scan (All 65535 Ports)"
 echo "3) Service & Version Detection"
 echo "4) Aggressive Scan (OS, Traceroute, Scripts)"
-read -p "Enter your choice (1-6): " CHOICE
+read -p "Enter your choice (1-4): " CHOICE
 
 # Handle user selection
 case $CHOICE in
